@@ -2,7 +2,7 @@
  
 Bank of America: Risk & Finance Dashboard
 
-- Interactive Dashboard that retrieves risk and finance feed and sign off data from various databases and APIs
+- Interactive dashboard that retrieves risk and finance feed and sign off data from various databases and APIs
 
 - Learning Objectives: develop a dashboard that consolidates risk and finance data
     - Specifications (modules):
